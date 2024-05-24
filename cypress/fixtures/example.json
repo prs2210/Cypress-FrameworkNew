@@ -1,0 +1,12 @@
+{
+  "name": "Tom",
+  "gender": "Female",
+  "email": "testuser22seller@gmail.com",
+  "password": "Testrig12345",
+  "date": "2015-07-22",
+  "submitText": " The Form has been submitted successfully!. ",
+  "productName": ["Nokia","Samsung","Blackberry","iphone"],
+  "Country" : "In",
+  "SuccessText" : "Thank you! Your order will be delivered in next few weeks :-)."
+  
+}
